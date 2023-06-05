@@ -1,0 +1,11 @@
+{
+    "require": {
+        "sendinblue/api-v3-sdk": "^8.4"
+    },
+    "config": {
+        "vendor-dir": "includes/lib",
+        "platform": {
+            "php": "8.0"
+        }
+    }
+}
